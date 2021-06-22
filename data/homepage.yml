@@ -1,0 +1,23 @@
+banner:
+  title: Hi! I'm Mordy
+social:
+  twitter: "@WaldoMordy"
+  linkedin: sam-robbins-gb
+  github: mordy-python
+  # gitlab: ""
+  # facebook: ""
+  # instagram: ""
+  gmail: imky171
+about:
+  enable: true
+  content: Python enthusiast embarking on a Java journey
+  button:
+    btnText: Find out more
+    URL: "/about"
+skill:
+  enable: true
+  item:
+    - title: Python
+      logo: https://www.python.org/static/community_logos/python-powered-h.svg
+      description: Details coming soon, contact me if you want to know more
+
